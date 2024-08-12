@@ -1,5 +1,5 @@
-# PythonDataAnalysis
-The repository contains an analysis made with python.
+# Python_HousePricePrediction
+The repository contains an analysis made with python, with the intention of practicing the use of python for data analysis.
 
 The dataset "casemilano.csv" contains data on 12800 houses, sold in Milan, taken from "Immobiliare.it".
 The objective is to predict an house selling price as a function of it's specifics. This is a regression problem.
